@@ -14,7 +14,7 @@ body {
   justify-content: center;
   background: url(./mountain.jpg) no-repeat;
   background-position: center;
-  background-size: ;
+  background-size: cover;
 }
 
 .container {
