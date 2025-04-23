@@ -201,7 +201,7 @@ input:checked + span {
 }
 
 .delete-all:hover {
-  border-radius: 7px;
+  border-radius: 6px;
   background-color: #e6b7eca1;
 }
 
