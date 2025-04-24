@@ -1,14 +1,14 @@
 *,
 *::before,
 *::after {
-  margin: 0;
+  margin: 10;
   padding: 0;
   box-sizing: border-box;
 }
 
 body {
   font-family: 'Roboto', sans-serif;
-  height: 100vh;
+  height: 10vh;
   display: flex;
   align-items: center;
   justify-content: center;
