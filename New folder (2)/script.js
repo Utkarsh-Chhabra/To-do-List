@@ -133,7 +133,7 @@ function updateCounter() {
 function editTask(index, span) {
   const currentText = span.innerText;
   const inputEdit = document.createElement("input");
-  inputEdit.type = "text";
+
   inputEdit.value = currentText;
   inputEdit.className = "edit-input";
   span.replaceWith(inputEdit);
