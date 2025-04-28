@@ -110,7 +110,7 @@ h1 {
 .todo label {
   cursor: pointer;
   display: flex;
-  align-items: right;
+  align-items: center;
   width: fit-content;
 }
 
