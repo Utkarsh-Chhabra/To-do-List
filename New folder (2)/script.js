@@ -63,13 +63,6 @@ input.addEventListener("keyup", e => {
   addTodo(todo);
 });
 
-addButton.addEventListener("click", () => {
-  let todo = input.value.trim();
-  if (!todo) {
-    return;
-  }
-  addTodo(todo);
-});
 
 function updateStatus(todo) {
   let todoName = todo.parentElement.lastElementChild;
