@@ -68,7 +68,7 @@ h1 {
   color: #fff;
   font-size: 17px;
   cursor: pointer;
-  border-radius: 27px;
+  border-radius: 26px;
   padding: 8px 15px;
   margin-left: 5px;
 }
@@ -86,7 +86,7 @@ h1 {
 }
 
 .empty-image {
-  margin: 55px auto 0;
+  margin: 54px auto 0;
   display: block;
 }
 
