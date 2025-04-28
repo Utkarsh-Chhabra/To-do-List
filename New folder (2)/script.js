@@ -48,12 +48,7 @@ function showTodos() {
   updateCounter();
 }
 
-function addTodo(todo) {
-  input.value = "";
-  todosJson.unshift({ name: todo, status: "pending" });
-  localStorage.setItem("todos", JSON.stringify(todosJson));
-  showTodos();
-}
+
 
 input.addEventListener("keyup", e => {
   let todo = input.value.trim();
