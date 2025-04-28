@@ -86,7 +86,7 @@ h1 {
 }
 
 .empty-image {
-  margin: 54px auto 0;
+  margin: 55px auto 0;
   display: block;
 }
 
@@ -110,7 +110,7 @@ h1 {
 .todo label {
   cursor: pointer;
   display: flex;
-  align-items: center;
+  align-items: right;
   width: fit-content;
 }
 
