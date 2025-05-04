@@ -20,3 +20,16 @@ The To-Do List is a simple and interactive application that helps users manage t
 
 
 This project can be built using HTML, CSS, JavaScript, or a framework like React for a more dynamic experience. Backend integration can be done using Node.js, Express, and MongoDB for persistent storage.
+## 🖥️ How to Run Locally
+
+# 1. Clone the repository
+git clone https://github.com/Utkarsh-Chhabra/To-do-List.git
+
+# 2. Navigate to the project directory
+cd To-do-List
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the server
+npm start
